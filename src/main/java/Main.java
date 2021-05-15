@@ -24,6 +24,7 @@ public class Main {
         server.stop(0);
     }
     public static String GetMessage(){
+        
         return "hello maintenance monitor";
     }
 }
